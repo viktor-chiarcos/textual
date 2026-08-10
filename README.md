@@ -1,4 +1,4 @@
-# textual für den Raspberry Pi
+# textual-Installer
 
 Führe folgendes aus um textual zu installieren:
 
