@@ -1,0 +1,11 @@
+Gehe zu $HOME/textual
+source venv/bin/activate
+
+
+!!WICHTIG!!
+In der ersten Zeile von Skripten:
+#!/usr/bin/env python3
+nicht:
+#!/usr/bin/python3
+schreiben.
+Sonst kann textual nicht verwendet werden.
